@@ -5,7 +5,7 @@ namespace Wetter
 	using Responses;
 	internal class API
 	{
-		readonly string Key = "7dd6d991f67d161352f41f53b188f960";
+		readonly string Key = "";
 
 		HttpClient http = new();
 
